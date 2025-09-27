@@ -1,5 +1,5 @@
 # Wearable-Device-Health-Trends-Anomaly-Insights
-<img width="550" height="152" alt="image" src="https://github.com/user-attachments/assets/bd6cd4dc-517a-452f-b349-46b1249033ba" />
+<img width="550" height="200" alt="image" src="https://github.com/user-attachments/assets/bd6cd4dc-517a-452f-b349-46b1249033ba" />
 
 
 Project Summary:
